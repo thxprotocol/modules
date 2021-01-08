@@ -7,6 +7,7 @@ title: <TMP title>
 author: <a list of the author's or authors' name(s) and/or username(s), or name(s) and email(s), e.g. (use with the parentheses or triangular brackets): FirstName LastName (@GitHubUsername), FirstName LastName <foo@bar.com>, FirstName (@GitHubUsername) and GitHubUsername (@GitHubUsername)>
 discussions-to: <URL>
 status: Draft
+type: <Module, Implementation>
 created: <date created on, in ISO 8601 (yyyy-mm-dd) format>
 requires (*optional): <TMP number(s)>
 replaces (*optional): <TMP number(s)>
@@ -54,7 +55,6 @@ All TMPs must contain a section that discusses the security implications/conside
 ## Copyright
 
 Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
-
 
 **Source:**
 
