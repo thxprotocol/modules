@@ -1,0 +1,4 @@
+- git@github.com:Evert0x/MemberAccess.git:
+    name: MemberAccess
+    depends:
+      TMP1: git@github.com:Evert0x/AccessControl.git
